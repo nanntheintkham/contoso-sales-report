@@ -19,7 +19,7 @@ This Power BI report provides insights into sales data using the contonso Datase
 3. Interact with the dashboard using filters and slicers to explore insights.
 
 ## Data Source
-The report is based on the **Global Superstore Dataset**, a widely used dataset for sales analytics.
+The report is based on the **Contoso Dataset**, a widely used dataset for sales analytics.
 
 ## Contact
 For any questions or improvements, feel free to reach out!
